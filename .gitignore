@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# NSIS ビルドファイル（インストーラー関連）
+*.nsi~
+*.nsh
